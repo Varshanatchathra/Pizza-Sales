@@ -1,5 +1,10 @@
 # Pizza-Sales-Data(Interactive Dashboard creation using Power BI and SQL for verifying KPI requirements)
 ## Project Objective
+- A Pizza store needs to analyze what are the measures to be taken for improving the sales.By analyzing the top and bottom sellers based on the Total revenue ,total quantity and total orders of pizza we can focus on how we can improve the business.
+
+## Dataset used:
+- <a href="">Dataset</a>
+## Problem statement
 - Percentage of sales by Pizza size
 - Total pizzas sold by Pizza category
 - Top 5 Best sellers by Revenue,Total quantity and Total orders
